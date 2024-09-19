@@ -1,0 +1,20 @@
+Usuário: 
+ Email: 
+ Senha: $2y$10$GbrjadPvEJhM5daq1Pd9SuavckTZy3nKl15CtPh17ktdmH5JFsY2.
+
+Usuário: 
+ Email: 
+ Senha: $2y$10$2Kt4pj.wzHKnWkFSdUBUr.I.aPmmrSfrPsiHqA9sHPweeXEGDxEh.
+
+Usuário: CANDYSTAR
+ Email: 
+ Senha: $2y$10$7MU5BBhykYfN4U3MA3Gc9eQXR2biTYV0a4arB5.WH6nFBjv8wlgTu
+
+Usuário: CANDYSTAR
+ Email: Ola@Candystar
+ Senha: $2y$10$hNk4S4fGEs1k6j7DXqEPc.Yg6OOBpoqGOJJWGqkmG.B3HaKeMAaba
+
+Usuário: CANDYSTAR
+ Email: Ola@Candystar
+ Senha: $2y$10$yxW9ltCgXa1CxP6i5xf3puZgDQ6MtW8n675yIp/uaK/x.MVFt5QQu
+
